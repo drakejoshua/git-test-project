@@ -1,1 +1,5 @@
 hello this is the file git file that we're monitoring
+
+added some lorem ipsum
+
+added some ipsum lorem
