@@ -1,3 +1,0 @@
-hello this is the third file we're going to be monitoring
-
-first change made
